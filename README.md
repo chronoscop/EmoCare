@@ -50,7 +50,7 @@ If you have ideas to improve EmoCare or want to fix bugs, please feel free to fo
 
 ## License
 
-This project is licensed under the [Apache License 2.0]() —see the LICENSE file for details.   
+This project is licensed under the [Apache License 2.0](https://github.com/chronoscop/EmoCare/blob/main/LICENSE) —see the LICENSE file for details.   
 
 ## To Be Continued
 
