@@ -25,13 +25,15 @@
 To install the EmoCare application on your Windows device, follow these steps:
 
 1. **Download the Installer**:
-   - Download the code of the EmoCare .
-   - or https://github.com/chronoscop/EmoCare.git
-2. **Run the Installer**:
-   - Once the installer has been downloaded, double-click the `itemman-1.0.0-setup.exe` file to start the installation.
+   - Navigate to the [EmoCare v1.0 Release](https://github.com/chronoscop/EmoCare/releases/tag/v1.0).
+   - Download the `EmoCare.zip` file from the "Assets" section of the release page.
+2. **Extract the Files**:
+   - After downloading the `EmoCare.zip`, extract the contents to a location of your choice on your computer.
+3. **Run the Installer**:
+   - Once the files are extracted, double-click the `itemman-1.0.0-setup.exe` file to start the installation.
    - Follow the on-screen instructions provided by the installation wizard.
-3. **Launch the Application**:
-   - After the installation completes, you can find the itemman application in your Start Menu or as a shortcut on your desktop.
+4. **Launch the Application**:
+   - After the installation completes, you can find the EmoCare application in your Start Menu or as a shortcut on your desktop.
    - Double-click the icon to launch the application and begin using EmoCare.
 
 ## System Requirements
