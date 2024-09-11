@@ -7,18 +7,18 @@
 1. **Dashboard**:
    - Select your current mood from a set of emojis.
    - View personalized suggestions based on your chosen mood, such as relaxation tips or activities to enhance your well-being.
-   - <img src="E:\EmoCare (win)\images\dashboard.png" alt="dashboard" style="zoom: 25%;" />
+   - <img src="images\dashboard.png" alt="dashboard" style="zoom: 25%;" />
 2. **Calendar**:
    - Add and manage events on a weekly, monthly, or daily basis.
    - Easily view upcoming activities and track how your emotions might change over time.
-   - <img src="E:\EmoCare (win)\images\claendar.png" alt="claendar" style="zoom:25%;" />
+   - <img src="images\claendar.png" alt="claendar" style="zoom:25%;" />
 3. **Emotion Diary**:
    - Record your daily reflections and emotional states in the journal.
    - View past entries to reflect on your emotional journey and gain insights into your well-being.
-   - <img src="E:\EmoCare (win)\images\diary.png" alt="diary" style="zoom:25%;" />
+   - <img src="images\diary.png" alt="diary" style="zoom:25%;" />
 4. **About**:
    - View all the dependencies and technologies used to build the EmoCare application.
-   - <img src="E:\EmoCare (win)\images\about.png" alt="about" style="zoom:25%;" />
+   - <img src="images\about.png" alt="about" style="zoom:25%;" />
 
 ## Installation
 
