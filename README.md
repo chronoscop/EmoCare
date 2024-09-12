@@ -7,7 +7,7 @@
 1. **Dashboard**:
    - Select your current mood from a set of emojis.
    - View personalized suggestions based on your chosen mood, such as relaxation tips or activities to enhance your well-being.
-   - <img src="images\dashboard.png" alt="dashboard" style="zoom: 25%;" />
+   - <img src="images\update dashboard.png" alt="dashboard" style="zoom: 25%;" />
 2. **Calendar**:
    - Add and manage events on a weekly, monthly, or daily basis.
    - Easily view upcoming activities and track how your emotions might change over time.
