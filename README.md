@@ -56,6 +56,9 @@ This project is licensed under the [Apache License 2.0](https://github.com/chron
 
 ## To Be Continued
 
-At the moment, the EmoCare application is available for download as a compiled Windows executable. In the near future, I plan to open-source the full project, including all source code and documentation, so that developers can modify and improve the application. (after a year later may be)
+~~At the moment, the EmoCare application is available for download as a compiled Windows executable. In the near future, I plan to open-source the full project, including all source code and documentation, so that developers can modify and improve the application. (after a year later may be)~~
+
+Now code have been release at [here](https://github.com/chronoscop/EmoCare-code)
 
 Thanks.
+
