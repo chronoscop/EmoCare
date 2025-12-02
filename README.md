@@ -32,7 +32,7 @@
 To install the EmoCare application on your Windows device, follow these steps:
 
 1. **Download the Installer**:
-   - Navigate to the [EmoCare v1.0 Release](https://github.com/chronoscop/EmoCare/releases/tag/v1.0).
+   - Navigate to the [EmoCare v1.0/v2.0 Release](https://github.com/chronoscop/EmoCare/releases/).
    - Download the `EmoCare.zip` file from the "Assets" section of the release page.
 2. **Extract the Files**:
    - After downloading the `EmoCare.zip`, extract the contents to a location of your choice on your computer.
@@ -68,6 +68,7 @@ Now code have been release at [here](https://github.com/chronoscop/EmoCare-code)
 and the app have also update to version 2
 
 Thanks.
+
 
 
 
