@@ -8,18 +8,25 @@
    - Select your current mood from a set of emojis.
    - View personalized suggestions based on your chosen mood, such as relaxation tips or activities to enhance your well-being.
    - <img src="images\update dashboard.png" alt="dashboard" style="zoom: 25%;" />
+1.1 **Update Dashboard**:
+   - <img src="images/updatedash.png" alt="dashboard" style="zoom: 25%;" />
 2. **Calendar**:
    - Add and manage events on a weekly, monthly, or daily basis.
    - Easily view upcoming activities and track how your emotions might change over time.
    - <img src="images\claendar.png" alt="claendar" style="zoom:25%;" />
+2.1  **Update Calendar**:
+   - <img src="images/updatecal.png" alt="claendar" style="zoom:25%;" />
 3. **Emotion Diary**:
    - Record your daily reflections and emotional states in the journal.
    - View past entries to reflect on your emotional journey and gain insights into your well-being.
    - <img src="images\diary.png" alt="diary" style="zoom:25%;" />
+3.1 **Update Emotion Diary**:
+   - <img src="images/updatediary.png" alt="diary" style="zoom:25%;" />
 4. **About**:
    - View all the dependencies and technologies used to build the EmoCare application.
    - <img src="images\about.png" alt="about" style="zoom:25%;" />
-
+4.1 **Update About**:
+   - <img src="images/updateabout.png" alt="about" style="zoom:25%;" />
 ## Installation
 
 To install the EmoCare application on your Windows device, follow these steps:
@@ -54,11 +61,11 @@ If you have ideas to improve EmoCare or want to fix bugs, please feel free to fo
 
 This project is licensed under the [Apache License 2.0](https://github.com/chronoscop/EmoCare/blob/main/LICENSE) —see the LICENSE file for details.   
 
-## To Be Continued
-
-~~At the moment, the EmoCare application is available for download as a compiled Windows executable. In the near future, I plan to open-source the full project, including all source code and documentation, so that developers can modify and improve the application. (after a year later may be)~~
+~~## To Be Continued
+At the moment, the EmoCare application is available for download as a compiled Windows executable. In the near future, I plan to open-source the full project, including all source code and documentation, so that developers can modify and improve the application. (after a year later may be)~~
 
 Now code have been release at [here](https://github.com/chronoscop/EmoCare-code)
-
+and the app have also update to version 2
 Thanks.
+
 
